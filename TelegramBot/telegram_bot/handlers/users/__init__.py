@@ -1,5 +1,6 @@
 from .help import dp
 from .start import dp
+from .update_db import dp
 from .create_order import dp
 from .purchase import dp
 from .get_contact import dp
